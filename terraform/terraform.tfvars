@@ -1,0 +1,6 @@
+aws-region  = "us-east-1"
+instance-tag-name = "Test-docker"
+instance-type = "t2.micro"
+user-data-script  = "./user-data.sh"
+instance-ami    = "ami-0261755bbcb8c4a84"
+instance-key-name = "test-docker"
